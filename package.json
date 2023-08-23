@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "type": "module",
+  "name": "typescript-num-2",
+  "version": "1.0.0",
+  "description": "my second typescript project",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch",
+    "start1": "node index.js"
+  },
+  "author": "moshe ilan",
+  "license": "ISC"
+}
